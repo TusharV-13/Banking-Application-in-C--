@@ -1,0 +1,9 @@
+100005
+Rishi
+25
+Male
+Pune
+rishi@gmail.com
+7654321123
+0
+Rishi123
